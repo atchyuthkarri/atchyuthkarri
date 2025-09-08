@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Atchyuth Karri  
+**Aspiring Web3 Developer | Python & React.js Enthusiast | Machine Learning Explorer**  
 
+📧 **Email me:** [atchyuthkarri@gmail.com](mailto:atchyuthkarri@gmail.com) for collaborations, projects, or tech discussions.  
+
+- 🔭 **Currently working on:** Continual Learning research with Avalanche (PyTorch) and building dynamic web apps.  
+- 🌱 **Currently learning:** Web3 development, Machine Learning, and Advanced React.js.  
+- 👯 **Looking to collaborate on:** AI/ML projects, frontend apps with React.js, and Web3-based platforms.  
+- 🤔 **Looking for help with:** Optimizing large-scale ML models and blockchain-based application deployment.  
+- 💬 **Ask me about:** Python, React.js, Avalanche (Continual Learning), and API integration.  
+- 📫 **How to reach me:** [atchyuthkarri@gmail.com](mailto:atchyuthkarri@gmail.com) | [LinkedIn](https://www.linkedin.com/in/atchyuth-karri-4b437b271/) | [GitHub](https://github.com/atchyuthkarri)  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I love turning ideas into real-world applications 🚀  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athadu.core) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atchyuth-karri-4b437b271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AtchyuthKarri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atchyuthkarri46@gmail.com) 
 
